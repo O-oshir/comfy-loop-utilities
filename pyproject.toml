@@ -3,7 +3,7 @@
 [project]
 name = "comfy-loop-utilities"
 description = "This extension adds helper nodes for looping over prompts and other data types."
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"}
 dependencies = ["",]  # e.g.) ["numpy==1.18.1", ]
 

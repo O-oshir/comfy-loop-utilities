@@ -22,8 +22,8 @@ __all__ = ['NODE_CLASS_MAPPINGS']
 
 
 import cm_global
-cm_global.register_extension('ComfyUI-Inspire-Pack',
-                                {'version': "1.0.0",
+cm_global.register_extension('comfy-loop-utilities',
+                                {'version': "1.0.1",
                                 'name': 'comfy loop utilities',
                                 'nodes': set(NODE_CLASS_MAPPINGS.keys()),
                                 'description': 'This extension adds helper nodes for looping over prompts and other data types.', })
