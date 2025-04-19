@@ -1,0 +1,12 @@
+#  Edit the following fields to match your project
+
+[project]
+name = "comfy-loop-utilities"
+description = "This extension adds helper nodes for looping over prompts and other data types."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["",]  # e.g.) ["numpy==1.18.1", ]
+
+[project.urls]
+Repository = "https://github.com/O-oshir/comfy-loop-utilities"
+#  Used by Comfy Registry https://comfyregistry.org
