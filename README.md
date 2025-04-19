@@ -45,7 +45,7 @@ The custom node installation guide below can usually be used for any custom node
 
 1. git clone repository into `ComfyUI\custom_nodes\`
 ```
-git clone https://github.com/replace-this-with-your-github-repository-url.git
+git clone https://github.com/O-oshir/comfy-loop-utilities
 ```
 
 2. Go to `ComfyUI\custom_nodes\comfy-loop-utilities` and run
